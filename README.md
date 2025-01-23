@@ -1,15 +1,15 @@
 ## **README.md (Sport News App - Flutter)**  
 
 # **🏆 Sport News App**  
-A **simple sports news application** built using **Flutter & Dart** as part of an academic project. This app provides **real-time sports updates, match scores, and trending news** in an intuitive and lightweight UI.  
+I developed this **simple sports news application** using **Flutter & Dart** as part of an academic project. The app displays **static sports news** with a **search feature** and allows users to view **detailed news articles** when clicked. This project helped me understand **basic API integration, UI structuring, and state management in Flutter**.  
 
 ---
 
 ## **📌 Features**  
-✅ **Live Sports News** – Get the latest updates from various sports leagues  
-✅ **Match Scores & Standings** – Stay updated with ongoing matches  
-✅ **Simple & Responsive UI** – Optimized for mobile devices  
-✅ **Dark Mode Support** – Seamless experience in light and dark themes  
+✅ **Static Sports News** – Displays a list of pre-defined sports articles  
+✅ **Search Functionality** – Allows users to search for specific news  
+✅ **News Detail Page** – Displays full details when a news item is clicked  
+✅ **Simple & Lightweight UI** – Built using Flutter’s Material Design  
 
 ---
 
@@ -17,8 +17,7 @@ A **simple sports news application** built using **Flutter & Dart** as part of a
 - **Language:** Dart  
 - **Framework:** Flutter  
 - **State Management:** setState  
-- **Networking:** HTTP package  
-- **API Integration:** NewsAPI (or any sports news API)  
+- **Networking:** HTTP package (if integrated with API)  
 - **UI Design:** Material Design  
 
 ---
@@ -37,4 +36,4 @@ flutter run
 ## **📜 License**  
 MIT License  
 
-🚀 **Developed as part of an academic project for learning and research purposes.**
+🚀 **This project was developed as part of my learning journey in Flutter app development.**
